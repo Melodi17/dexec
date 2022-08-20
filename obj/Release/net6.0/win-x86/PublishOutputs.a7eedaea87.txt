@@ -1,0 +1,2 @@
+C:\Users\melod\source\repos\Utilities\dexec\bin\Release\net6.0\publish\win-x86\dexec.pdb
+C:\Users\melod\source\repos\Utilities\dexec\bin\Release\net6.0\publish\win-x86\dexec.exe

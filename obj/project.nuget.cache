@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fgWBD/D1Q1sCTvANS9nPz8TVrMn7UYNTuNnc5RCSnlCGfT04sxbj1vDXyEyw3dzh4leKJ7Npq6K+SDcJUqqo6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melod\\source\\repos\\Utilities\\dexec\\dexec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melod\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\melod\\.nuget\\packages\\melodi.io\\1.0.7\\melodi.io.1.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
